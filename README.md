@@ -1,2 +1,2 @@
-# C---18
-Mobile Application
+# C18-Akash
+device specific adjustment
